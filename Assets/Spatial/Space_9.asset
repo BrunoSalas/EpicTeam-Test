@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
-  m_Name: Space_1
+  m_Name: Space_9
   m_EditorClassIdentifier: 
   version: 1
-  sku: t13v29fb9yvztm936p4rxdlz
-  packageName: "Central Subsala 4 Genuine 1\xB0T "
+  sku: g567rc3xyopdldjyuqr6vj2o
+  packageName: "Guayas Subsala 4 Kids 1\xB0T"
   thumbnail: {fileID: 2800000, guid: 0c69e6b86dccc9242bcc7bc22bb7bcb7, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   worldID: 4q0pou4ewpw4zobn5pxog
-  scene: {fileID: 102900000, guid: e3cfea0adcda5a14f8687b7557809f60, type: 3}
+  scene: {fileID: 102900000, guid: e3d6d00c7f83bf54292aef41f4648f66, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 1b0c2c851537da040a3787ccbb72bbec,
     type: 3}
   embeddedPackageAssets: []
