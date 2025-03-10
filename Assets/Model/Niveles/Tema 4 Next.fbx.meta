@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: de526eeed4d70164b8ec0e6b8f51428d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Agua
+    second: {fileID: 2100000, guid: aa8abfef0fcc4ea41b597cc451820e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard 1 (4)
+    second: {fileID: 2100000, guid: 02947e0fa5665c64f87f1589e157e092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.002
+    second: {fileID: 2100000, guid: d629d348384533641a014281c25059e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Coffee_Maker
+    second: {fileID: 2100000, guid: f1961ab9c349da441b1c417872db67de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue.001
+    second: {fileID: 2100000, guid: c96699658ba5b58408bf430d8a231b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownie
+    second: {fileID: 2100000, guid: d220c25e0214fbd40afff6ea424c9a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brushed_Metal
+    second: {fileID: 2100000, guid: 87686e50d16611b429d886d0299ac639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairColor
+    second: {fileID: 2100000, guid: 30ca78db98ac95041bbe7f6e1a6e956e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairSeatCover
+    second: {fileID: 2100000, guid: 158a5d285fea97e4ca487ab8950285b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee_Cups
+    second: {fileID: 2100000, guid: 58f81cc01d21360498574be9b39f28f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cookie
+    second: {fileID: 2100000, guid: 35fd80c0c3b22a74fafd80d16caacfd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower
+    second: {fileID: 2100000, guid: 339f5c5ee363cd94e8c9025ef187ec80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glassware
+    second: {fileID: 2100000, guid: 3073dd173980fb94c8f1e79a48457211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: dd5e9840dfa68ab4c8785326ac26fd65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2100000, guid: c306d2c273202294294af25421dc25e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: 3818768e572824c4aac80a5997666daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble021_1K-JPG
+    second: {fileID: 2100000, guid: fd486a1efffe2c04584319186d832c11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 9654ee227a0b98a4e80d92c5025c1ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 410894b623d2102498593b2e28f04eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 1-100
+    second: {fileID: 2100000, guid: 0feea59af44887143baabfa0dd61196c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 10-100
+    second: {fileID: 2100000, guid: 701789f67b45f914cb01d29866f8c40a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 4-100
+    second: {fileID: 2100000, guid: ca5a06eb79c05bc41bd7300cfc7b6e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 5-100
+    second: {fileID: 2100000, guid: cf27068da97a60b4db5b7b19f0c50027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 6-100
+    second: {fileID: 2100000, guid: 486f42d8aa4a24748935ac0c5a79624b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 7-100
+    second: {fileID: 2100000, guid: e4ab373236e642d43bf2cbfec5b40bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 9-100
+    second: {fileID: 2100000, guid: 73be58d56e0ddfa48957c6c0bbeb2988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal061B_1K-JPG
+    second: {fileID: 2100000, guid: de6f1e461c28b3b4895d2ba3382218de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROJO
+    second: {fileID: 2100000, guid: 31fcd16e26a423a4aab5660424905487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red.002
+    second: {fileID: 2100000, guid: defac088d9f17624b973f3c579c83b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trays
+    second: {fileID: 2100000, guid: e32d8622b1ff9a442abdcea4b9114da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VIP_BlackTexture
+    second: {fileID: 2100000, guid: 3ccd30ee9de95d644af192d3e26996ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor043_1K-JPG
+    second: {fileID: 2100000, guid: 1692d6a487d7d42498c0f3cd717496ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2SG
+    second: {fileID: 2100000, guid: b9fc36c94e6ad4449af102fca1bb2c25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 82ef1214561b9c9468b6b99c777d6def, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_0
+    second: {fileID: 2100000, guid: 243e4eba68ef5ed47affbe34d5cdc685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidrio
+    second: {fileID: 2100000, guid: 6b8e5af504141804493d08ff1431b7a0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Artboard 1 (4)
+    second: {fileID: 2800000, guid: 2d59b7547688f8e4c8211f215fb59eb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Marble021_1K-JPG_Color
+    second: {fileID: 2800000, guid: 8eb9cbe9abb616e40bbc0b827247397f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Marble021_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: ea34a0f422bc1c74b89a92029e6d80fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Marble021_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 9cbaf92ef4061df48abef1298b462b1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 1-100
+    second: {fileID: 2800000, guid: 006d15f0997a4c741b86d6add7e4adf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 10-100
+    second: {fileID: 2800000, guid: 5d15b7411139d244da8666cb68697072, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 4-100
+    second: {fileID: 2800000, guid: 6dd857e0799a4064993265d081c8c907, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 5-100
+    second: {fileID: 2800000, guid: 160b60c56dd4f5140aca9437870ff547, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 6-100
+    second: {fileID: 2800000, guid: 69e2f17be9afc974c80f400a49e76fc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 7-100
+    second: {fileID: 2800000, guid: a5ce2d733dad1da47bae2f8fd7711e50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mesa de trabajo 9-100
+    second: {fileID: 2800000, guid: 135a2a1a60fe99e499d939403cd37e10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal061B_1K-JPG_Color
+    second: {fileID: 2800000, guid: 29306cea877d64741b5a819c945b6aba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal061B_1K-JPG_Metalness
+    second: {fileID: 2800000, guid: ab3a731d7b8bfd146b3e590dc6802541, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal061B_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 2383436980dd1914582a6b83ee536c94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal061B_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 695a5dee1d467404a9c4876699a6a245, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood051_1K-JPG_Color
+    second: {fileID: 2800000, guid: e15fd3581f68f9e46a768b1f525915c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood051_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: c9236d1793f2f244ea6057b07365f739, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood051_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 43115a2303e6b1c4aabab847d56fe50c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor043_1K-JPG_Color
+    second: {fileID: 2800000, guid: 332d03fe9c98ab748a61eba83c58b083, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor043_1K-JPG_Metalness
+    second: {fileID: 2800000, guid: c6ea20403a56453448d5819ff4fef694, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor043_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: c4b7e99007f8ed04daaf8a9276300a49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor043_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 9fe0e3f9dd90ea7468e17bfa60938cc9, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
