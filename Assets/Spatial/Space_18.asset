@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_18
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: ccyb9585bxt3b3ytxggsvgos
+  packageName: "IPDC Subsala 4 Next 1\xB0T"
+  thumbnail: {fileID: 2800000, guid: a1ac4ef0787ed5240ba20632a703a088, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: 4q0pou4ewpw4zobn5pxog
+  scene: {fileID: 102900000, guid: b7d390b589cba4141964349d78611634, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 1b0c2c851537da040a3787ccbb72bbec,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16
