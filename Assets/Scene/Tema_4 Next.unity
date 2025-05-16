@@ -2331,6 +2331,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1314400071}
     m_Modifications:
+    - target: {fileID: 2884491475793070324, guid: 575d7c30506c4484d8f85bdc7cb67760,
+        type: 3}
+      propertyPath: m_CullingMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8479215759443380276, guid: 575d7c30506c4484d8f85bdc7cb67760,
         type: 3}
       propertyPath: m_Name
@@ -3268,7 +3273,7 @@ PrefabInstance:
     - target: {fileID: 4359367785020145633, guid: 025cf1d9a9a555d4e9f3f9d3754ecfcb,
         type: 3}
       propertyPath: onInteractEvent.questEvent.events.Array.data[0].questEventType
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4359367785020145644, guid: 025cf1d9a9a555d4e9f3f9d3754ecfcb,
         type: 3}
@@ -4077,6 +4082,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NPC8 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7178968673869248192, guid: 018390e71ffe0fb4ba7b70fd8fa34dd2,
+        type: 3}
+      propertyPath: m_CullingMode
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 018390e71ffe0fb4ba7b70fd8fa34dd2, type: 3}

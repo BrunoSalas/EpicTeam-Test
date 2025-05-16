@@ -3268,7 +3268,7 @@ PrefabInstance:
     - target: {fileID: 4359367785020145633, guid: 025cf1d9a9a555d4e9f3f9d3754ecfcb,
         type: 3}
       propertyPath: onInteractEvent.questEvent.events.Array.data[0].questEventType
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4359367785020145644, guid: 025cf1d9a9a555d4e9f3f9d3754ecfcb,
         type: 3}
